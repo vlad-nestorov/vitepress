@@ -3,6 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Canadian Toner Supplies",
   description: "Premium toner cartridges for Canadian businesses",
+  base: '/vitepress/',
   
   themeConfig: {
     logo: '/logo.svg',
