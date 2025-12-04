@@ -4,7 +4,7 @@ layout: home
 hero:
   name: "Canadian Toner Supplies"
   text: "Premium Printer Cartridges"
-  tagline: Fast shipping across Canada • Competitive prices • Quality guaranteed
+  tagline: Serving the Greater Toronto Area • Competitive prices • Quality guaranteed
   actions:
     - theme: brand
       text: Shop Now
@@ -16,13 +16,13 @@ hero:
 features:
   - icon: 🍁
     title: 100% Canadian
-    details: Proudly serving businesses across all provinces and territories with local warehouses for fast delivery.
+    details: Proudly serving businesses across the Greater Toronto Area with local pickup and delivery.
   - icon: 💰
     title: Best Prices
     details: Competitive pricing on OEM and compatible toner cartridges. Volume discounts available for businesses.
   - icon: 🚚
-    title: Free Shipping
-    details: Free shipping on orders over $99 CAD. Most orders ship same-day from our Canadian warehouses.
+    title: Local Pickup & Delivery
+    details: Convenient pickup from our Toronto location or local delivery within the GTA.
   - icon: ✅
     title: Quality Guaranteed
     details: All cartridges backed by our satisfaction guarantee. Easy returns and responsive customer support.
@@ -41,6 +41,6 @@ We've been serving Canadian businesses since 2010, providing high-quality toner 
 - **Lexmark** - MS, MX series
 - **Samsung** - Xpress, ProXpress series
 
-### Serving All of Canada
+### Serving the Greater Toronto Area
 
-From Vancouver to Halifax, we ship to every province and territory. Our strategically located warehouses ensure fast delivery times across the country.
+We proudly serve businesses and individuals throughout the GTA with convenient local pickup and delivery options.

@@ -33,16 +33,12 @@ For volume orders or custom supply programs, please provide:
 
 Email us at **quotes@canadiantonersupplies.ca** or call our business line.
 
-## Warehouse Locations
+## Service Area
 
-We ship from multiple Canadian locations for faster delivery:
+We serve the Greater Toronto Area with:
 
-| Location | Provinces Served |
-|----------|-----------------|
-| **Vancouver, BC** | BC, AB, YT, NT |
-| **Calgary, AB** | AB, SK, MB |
-| **Toronto, ON** | ON, QC, NU |
-| **Montreal, QC** | QC, NB, NS, PE, NL |
+- **In-store pickup** at our Toronto location
+- **Local delivery** throughout the GTA
 
 ## Returns & Support
 
@@ -52,5 +48,5 @@ Need to return a product or have a technical question?
 - **Technical Support**: Call our main line and select option 2
 
 ::: info Satisfaction Guaranteed
-Not happy with your purchase? We offer hassle-free returns within 30 days of delivery.
+Not happy with your purchase? We offer hassle-free returns within 30 days.
 :::

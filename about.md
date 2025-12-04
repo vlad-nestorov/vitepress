@@ -4,13 +4,13 @@
 
 Founded in 2010, Canadian Toner Supplies started with a simple mission: provide Canadian businesses with quality printer supplies at fair prices, without the hassle of cross-border shipping and customs.
 
-What began as a small operation in Toronto has grown into a nationwide supplier with warehouses in Vancouver, Calgary, Toronto, and Montreal—ensuring fast delivery to customers across all provinces and territories.
+What began as a small operation in Toronto has grown into a trusted local supplier—serving businesses and individuals throughout the Greater Toronto Area.
 
 ## Our Promise
 
 - **Quality First**: Every cartridge we sell meets or exceeds OEM specifications
 - **Canadian Pricing**: All prices in CAD with no hidden fees or currency surprises
-- **Fast Shipping**: Same-day shipping on orders placed before 2 PM local time
+- **Local Service**: Convenient pickup or same-day delivery within the GTA
 - **Expert Support**: Our team knows printers and can help you find the right supplies
 
 ## Sustainability
