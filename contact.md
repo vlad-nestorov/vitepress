@@ -8,7 +8,7 @@ We're here to help with all your toner and printer supply needs.
 **1-800-555-TONER** (1-800-555-8663)
 
 Monday - Friday: 8:00 AM - 6:00 PM EST  
-Saturday: 9:00 AM - 2:00 PM EST  
+Saturday: Closed
 Sunday: Closed
 
 ### Email
