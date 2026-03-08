@@ -5,21 +5,21 @@ We're here to help with all your toner and printer supply needs.
 ## Get in Touch
 
 ### Phone
-**1-800-555-TONER** (1-800-555-8663)
+**647-895-6478** 
 
 Monday - Friday: 8:00 AM - 6:00 PM EST  
-Saturday: Closed
+Saturday: by appointment
 Sunday: Closed
 
 ### Email
-**info@canadiantonersupplies.ca**
+**emilia@pillarprinting.ca**
 
 We respond to all emails within 24 business hours.
 
 ### Mailing Address
 Pillar Printing and Supplies  
-123 Commerce Street, Unit 100  
-Toronto, ON M5V 1A1  
+36 Tolton Drive 
+Brampton, ON L6V 2R1
 Canada
 
 ## Request a Quote
@@ -31,7 +31,7 @@ For volume orders or custom supply programs, please provide:
 - Estimated monthly print volume
 - Preferred cartridge type (OEM or Compatible)
 
-Email us at **quotes@canadiantonersupplies.ca** or call our business line.
+Email us at **emilia@pillarprinting.ca** or call our business line.
 
 ## Service Area
 
