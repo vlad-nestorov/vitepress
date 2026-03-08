@@ -24,6 +24,17 @@ Reliable Brother toner cartridges and drum units for all Brother laser printers.
 - Colors: Black, Cyan, Magenta, Yellow
 - Available in: OEM and Compatible
 
+### Brother TN=830 /830XL
+- Compatible with: DCP-L2640DW, HL-L2460DW, HL-L2480DW, HL-L2400D, HL-L2405W, 
+                   HL-L2460DW, HL-L2480DW, MFC-L2820DW
+- Page yield: 1200 (TN-830) / 3,000 (TN-830XL)
+- Available in: OEM and Compatible
+
+
+
+
+
+
 ## Drum Units
 
 Don't forget to replace your drum unit! We carry:

@@ -2,7 +2,7 @@
 
 ## Our Story
 
-Founded in 2012, Canadian Toner Supplies started with a simple mission: provide Canadian businesses with quality printer supplies at fair prices, without the hassle of cross-border shipping and customs.
+Founded in 2006, Canadian Toner Supplies started with a simple mission: provide Canadian businesses with quality printer supplies at fair prices, without the hassle of cross-border shipping and customs.
 
 What began as a small operation in Toronto has grown into a trusted local supplier—serving businesses and individuals throughout the Greater Toronto Area.
 
