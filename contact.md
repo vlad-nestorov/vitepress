@@ -17,7 +17,7 @@ Sunday: Closed
 We respond to all emails within 24 business hours.
 
 ### Mailing Address
-Canadian Toner Supplies  
+Pillar Printing and Supplies  
 123 Commerce Street, Unit 100  
 Toronto, ON M5V 1A1  
 Canada
