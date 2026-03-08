@@ -2,7 +2,7 @@
 layout: home
 
 hero:
-  name: "Canadian Toner Supplies"
+  name: "Pillar Printing and Supplies"
   text: "Premium Printer Cartridges"
   tagline: Serving the Greater Toronto Area • Competitive prices • Quality guaranteed
   actions:
