@@ -44,7 +44,7 @@ We serve the Greater Toronto Area with:
 
 Need to return a product or have a technical question?
 
-- **Returns**: Email returns@canadiantonersupplies.ca with your order number
+- **Returns**: Email sales.pillarprint@gmail.com with your order number
 - **Technical Support**: Call our main line and select option 2
 
 ::: info Satisfaction Guaranteed
