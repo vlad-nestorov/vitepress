@@ -2,15 +2,15 @@
 
 ## Our Story
 
-Founded in 2006, Canadian Toner Supplies started with a simple mission: provide Canadian businesses with quality printer supplies at fair prices, without the hassle of cross-border shipping and customs.
+Founded in 2006, Pillar printing and supplies started with a simple mission: provide Canadian businesses with quality printer supplies at fair prices, without the hassle of cross-border shipping and customs.
 
-What began as a small operation in Toronto has grown into a trusted local supplier—serving businesses and individuals throughout the Greater Toronto Area.
+What began as a small operation in Brampton, Ontario has grown into a trusted local supplier—serving businesses and individuals throughout the Greater Toronto Area.
 
 ## Our Promise
 
 - **Quality First**: Every cartridge we sell meets or exceeds OEM specifications
 - **Canadian Pricing**: All prices in CAD with no hidden fees or currency surprises
-- **Local Service**: Convenient pickup or same-day delivery within the GTA
+- **Local Service**: Convenient pickup or next-day delivery within the GTA
 - **Expert Support**: Our team knows printers and can help you find the right supplies
 
 ## Sustainability
