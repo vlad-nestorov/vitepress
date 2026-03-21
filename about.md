@@ -40,6 +40,6 @@ Replacing only the toner when needed (instead of the whole drum unit) can save y
 
 Have questions? We're here to help.
 
-- **Phone**: 1-800-555-TONER (1-800-555-8663)
-- **Email**: info@canadiantonersupplies.ca
+- **Phone**: 647-895-6478
+- **Email**: sales.pillarprint@gmail.com
 - **Hours**: Monday-Friday, 8 AM - 6 PM EST
